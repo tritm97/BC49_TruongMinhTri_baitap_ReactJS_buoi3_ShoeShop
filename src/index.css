@@ -11,3 +11,30 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.shopBody h1 {
+  text-align: center;
+}
+
+.card {
+  padding: 20px;
+  margin: 20px;
+}
+
+.card .itemImg {
+  text-align: center;
+  cursor: pointer;
+}
+
+.card .itemImg img {
+  width: 50%;
+}
+
+.cardModal .cardModalImg {
+  text-align: center;
+}
+
+.cardModal .cardModalImg img {
+  width: 75%;
+}
+
